@@ -5,7 +5,8 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I finished the java course at ITPlus Academy and self-taught from many other sources via google.
-- 📚 I’m currently learning  backend web development using Java, Spring framework and Mysql. In this project I use spring-boot, secure the api by spring-security
+- 📚 I’m currently learning  backend web development using Java, Spring framework and Mysql. In this project I use spring-boot, secure the api by spring-security and spring-doc-ui with OpenAPI.
+- 📚 Visit http://localhost:8088/swagger-ui/index.html to understand the API design
 - 👯 I’m looking for a software development with level fresher.
 - 📫 How to reach me: [Gmail](mailto:dung.hsdtnt@gmail.com)
 
