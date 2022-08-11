@@ -26,6 +26,10 @@ public class Menu {
     @NotBlank(message = "Menu name shouldn't be blank")
     private String name;
 
+    private String description;
+
+    private Double rating;
+
     @JsonIgnore
     @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "restaurant_id", referencedColumnName = "id")

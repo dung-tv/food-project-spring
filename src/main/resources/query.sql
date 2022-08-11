@@ -209,12 +209,12 @@ INSERT INTO customers_restaurants_favorite(customer_id, restaurant_id) VALUES (3
 INSERT INTO customers_restaurants_favorite(customer_id, restaurant_id) VALUES (3, 4);
 INSERT INTO customers_restaurants_favorite(customer_id, restaurant_id) VALUES (3, 5);
 
-INSERT INTO menus(name, price, thumbnail_pic, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 1);
-INSERT INTO menus(name, price, thumbnail_pic, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 1);
-INSERT INTO menus(name, price, thumbnail_pic, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 1);
-INSERT INTO menus(name, price, thumbnail_pic, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 2);
-INSERT INTO menus(name, price, thumbnail_pic, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 2);
-INSERT INTO menus(name, price, thumbnail_pic, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 3);
+INSERT INTO menus(name, price, thumbnail_pic, description, rating, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 'description', 0, 1);
+INSERT INTO menus(name, price, thumbnail_pic, description, rating, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 'description', 0, 1);
+INSERT INTO menus(name, price, thumbnail_pic, description, rating, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 'description', 0, 1);
+INSERT INTO menus(name, price, thumbnail_pic, description, rating, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 'description', 0, 2);
+INSERT INTO menus(name, price, thumbnail_pic, description, rating, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 'description', 0, 2);
+INSERT INTO menus(name, price, thumbnail_pic, description, rating, restaurant_id) VALUES('name', 0, 'http://192.168.56.1:8088/menus/downloadFile/sdt_army.png', 'description', 0, 3);
 
 INSERT INTO ingredients(name, price, thumbnail_pic) VALUES('name', 0, 'http://192.168.56.1:8088/ingredients/downloadFile/sdt_army.png');
 INSERT INTO ingredients(name, price, thumbnail_pic) VALUES('name', 0, 'http://192.168.56.1:8088/ingredients/downloadFile/sdt_army.png');
