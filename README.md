@@ -10,7 +10,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development with level fresher.
 - 📫 How to reach me: [Gmail](mailto:dung.hsdtnt@gmail.com)
 
-⭐️ From [Dung Tran](https://github.com/devlin-conal)
+⭐️ From [Dung Tran](https://github.com/dung-tv)
 Inspired from [Xboot](https://github.com/Exrick/xboot)
 
 - Screenshots:
